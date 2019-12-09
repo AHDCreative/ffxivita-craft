@@ -1,1 +1,1 @@
-worker node server.js
+web browser-sync start --port 8001 --server app --files app
