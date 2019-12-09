@@ -1,6 +1,6 @@
-# FFXIV Crafting Optimizer Website
+# FFXIVITA Crafting Optimizer Website
 
-This project contains the source for the [FFXIV Crafting Optimizer Website](http://ffxiv.lokyst.net/). It uses [AngularJS](http://angularjs.org/), [AngularUI Bootstrap](http://angular-ui.github.io/bootstrap/), and [Bootstrap](http://getbootstrap.com/).
+This project contains the source for the [FFXIVITA Crafting Optimizer Website](http://crafting.ffxivita.it/). It uses [AngularJS](http://angularjs.org/), [AngularUI Bootstrap](http://angular-ui.github.io/bootstrap/), and [Bootstrap](http://getbootstrap.com/).
 
 ### Running the app during development
 
