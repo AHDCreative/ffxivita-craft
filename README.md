@@ -2,6 +2,8 @@
 
 This project contains the source for the [FFXIVITA Crafting Optimizer Website](http://crafting.ffxivita.it/). It uses [AngularJS](http://angularjs.org/), [AngularUI Bootstrap](http://angular-ui.github.io/bootstrap/), and [Bootstrap](http://getbootstrap.com/).
 
+This project is a fork of [ffxiv-craft-opt-web](https://github.com/doxxx/ffxiv-craft-opt-web).
+
 ### Running the app during development
 
 You can pick one of these options:
